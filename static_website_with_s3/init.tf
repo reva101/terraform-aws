@@ -1,3 +1,4 @@
+# check out my website at: http://supersecretbucket31337.s3-website.eu-north-1.amazonaws.com/
 provider "aws" {
   region  = var.region
   version = "~> 2.0"
